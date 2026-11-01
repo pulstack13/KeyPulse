@@ -1,0 +1,12 @@
+# Generated binaries and release payloads
+/dist/
+/release/
+/installer/payload/
+
+# Visual Studio / editor files
+.vs/
+*.user
+*.suo
+*.cache
+Thumbs.db
+Desktop.ini
